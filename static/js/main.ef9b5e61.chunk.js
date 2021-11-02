@@ -1,0 +1,2 @@
+(this.webpackJsonpdigitalclockapp2=this.webpackJsonpdigitalclockapp2||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var c=n(1),a=n(3),i=n.n(a),o=(n(9),n(4)),r=n(0),s=function(){var e=(new Date).toLocaleTimeString(),t=Object(c.useState)(e),n=Object(o.a)(t,2),a=n[0],i=n[1];return setInterval((function(){e=(new Date).toLocaleTimeString(),i(e)}),1e3),Object(r.jsx)(r.Fragment,{children:Object(r.jsx)("h1",{children:a})})};i.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))},9:function(e,t,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.ef9b5e61.chunk.js.map
